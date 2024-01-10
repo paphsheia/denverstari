@@ -2,9 +2,11 @@
 	{
  		"text":"BMW M5 F90",
 		"cost": "126"
+		"id": "401"
 	},
 	{
  		"text":"Homyak json",
-		"cost": "458"
+		"cost": "458",
+		"id": "400",
 	}
 ]
