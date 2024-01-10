@@ -1,6 +1,10 @@
 [
 	{
  		"text":"BMW M5 F90",
-		"cost": 1
+		"cost": "1"
+	},
+	{
+ 		"text":"Homyak json",
+		"cost": "1"
 	}
 ]
