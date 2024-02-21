@@ -1,0 +1,42 @@
+[
+    {
+      "color": "ff368418",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #1",
+      "online": 1000,
+      "recommend": true,
+      "edgar_host": "141.94.184.108",
+      "edgar_port": 1481,
+      "id": 1
+    },
+   {
+      "color": "30d5c8",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #2",
+      "online": 841,
+      "recommend": true,
+      "edgar_host": "141.95.190.140",
+      "edgar_port": 1177,
+      "id": 2
+    },
+    {
+      "color": "ff0000",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #3",
+      "online": 936,
+      "recommend": false,
+      "edgar_host": "185.189.15.22",
+      "edgar_port": 2003,
+      "id": 3
+    }, 
+    {
+      "color": "808080",
+      "maxonline": 1000,
+      "name": "Тест #4",
+      "online": 0,
+      "recommend": false,
+      "edgar_host": "5.39.108.50",
+      "edgar_port": 2997,
+      "id": 4
+    }
+]
